@@ -11,6 +11,7 @@
 		5BF7704A293E1E5100FAA323 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF77049293E1E5100FAA323 /* ContentView.swift */; };
 		5BF7704C293E1E5300FAA323 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF7704B293E1E5300FAA323 /* Assets.xcassets */; };
 		5BF7704F293E1E5300FAA323 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF7704E293E1E5300FAA323 /* Preview Assets.xcassets */; };
+		5BF77056293E70BA00FAA323 /* viewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF77055293E70BA00FAA323 /* viewModelTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5BF77049293E1E5100FAA323 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5BF7704B293E1E5300FAA323 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BF7704E293E1E5300FAA323 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5BF77055293E70BA00FAA323 /* viewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewModelTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5BF77047293E1E5100FAA323 /* AsyncAwaitApp.swift */,
 				5BF77049293E1E5100FAA323 /* ContentView.swift */,
+				5BF77055293E70BA00FAA323 /* viewModelTest.swift */,
 				5BF7704B293E1E5300FAA323 /* Assets.xcassets */,
 				5BF7704D293E1E5300FAA323 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BF7704A293E1E5100FAA323 /* ContentView.swift in Sources */,
+				5BF77056293E70BA00FAA323 /* viewModelTest.swift in Sources */,
 				5BF77048293E1E5100FAA323 /* AsyncAwaitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
